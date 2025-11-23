@@ -1,0 +1,32 @@
+# Data & Datasets
+data/
+datasets/
+GANAttributes/
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.webp
+
+# Models & Checkpoints
+*.pt
+*.pth
+checkpoints/
+best_*.pt
+model_data/
+
+# Results & Outputs
+results/
+outputs/
+runs/
+*.csv
+*.json
+
+
+__pycache__/
+env/
+venv/
+.env
+.vscode/
+
+
